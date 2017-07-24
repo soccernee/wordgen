@@ -2,7 +2,7 @@
 
 Use some random words inspired by the Ruby 7 class!
 
-TODO: Delete this and the text above, and describe your gem
+This repository was the result of a sample walkthrough during class of how to build a ruby gem.
 
 ## Installation
 
@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+  # returns a random word
+   Wordgen.random
+```
 
 ## Development
 

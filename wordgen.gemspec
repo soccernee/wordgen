@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nchandra324@gmail.com"]
 
   spec.summary       = "generate a random word"
+  spec.homepage      = "https://github.com/soccernee/wordgen"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
